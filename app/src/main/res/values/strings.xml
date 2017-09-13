@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Punto1</string>
+    <string name="calcular">Calcular</string>
+    <string name="ingreso">Ingrese los valores</string>
+    <string name="radio">Radio:</string>
+    <string name="seleccion">Seleccione la figura</string>
+    <string name="lado">Lado:</string>
+    <string name="ladoa">Lado A:</string>
+    <string name="ladob">Lado B:</string>
+    <string name="ladoc">Lado C:</string>
+    <string name="resultado">Resultado</string>
+</resources>
